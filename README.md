@@ -115,5 +115,5 @@ Contribuições são bem-vindas! Se você quiser melhorar o projeto, siga estas 
 
 
 Projeto Executado por Ramires Rocha .
-Copy   
+Deploy do Projeto via Vercel https://amigo-secreto-khaki-mu.vercel.app/  
    
